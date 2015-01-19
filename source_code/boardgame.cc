@@ -1,6 +1,7 @@
 int x; // number of squares in x direction
 int y; // number of squares in y direction
 
+//This is a test of version control
 piece piece_array [][];
 
 
